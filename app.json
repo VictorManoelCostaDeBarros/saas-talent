@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "saas-talent",
-    "slug": "saas-talent",
+    "name": "daily-diet",
+    "slug": "daily-diet",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
