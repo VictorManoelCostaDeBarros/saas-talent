@@ -31,12 +31,6 @@ To get started with this project, follow these steps:
 
 Now that you have the app running, start making changes to the code in the `src` directory. The app will reload automatically as you save your changes.
 
-## Features
-
-- Feature 1: [Description of feature 1]
-- Feature 2: [Description of feature 2]
-- ...
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
